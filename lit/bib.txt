@@ -1,0 +1,77 @@
+@article{coronel1997corpus,
+  title={Corpus Planning for the Southern Peruvian Quechua Language.},
+  author={Coronel-Molina, Serafin M},
+  journal={Working Papers in Educational Linguistics},
+  volume={12},
+  number={2},
+  pages={1--27},
+  year={1997},
+  publisher={ERIC}
+}
+
+@article{torero1983familia,
+  title={La familia ling{\"u}{\'\i}stica quechua},
+  author={Torero, Alfredo},
+  journal={Am{\'e}rica Latina en sus lenguas ind{\'\i}genas},
+  pages={61--92},
+  year={1983},
+  publisher={Monte {\'A}vila Editores Caracas}
+}
+
+@book{lott2000bolivian,
+  title = {Bolivian Quechua - English Dictionary},
+  author = {Philip S. Lott},
+  year = {2000}
+}
+
+@misc{molina2020numbers,
+  author = {Carlos Molina-Vital},
+  title = {Numbers in Southern Quechua},
+  year = {2020},
+  month = {October 4},
+  howpublished = {Video},
+  url = {https://www.youtube.com/watch?app=desktop&v=qJmjDzVrKYw&ab_channel=CarlosMolina-Vital}
+}
+
+@article{steriade1995underspecification,
+  title={Underspecification and markedness},
+  author={Steriade, Donca},
+  journal={The handbook of phonological theory/Blackwell},
+  year={1995}
+}
+
+@article{clements1995internal,
+  title={The internal organization of speech sounds},
+  author={Clements, George N},
+  journal={The Handbook of Phonological Theory/Blackwell Publishers},
+  year={1995}
+}
+
+@article{rose1996variable,
+  title={Variable laryngeals and vowel lowering},
+  author={Rose, Sharon},
+  journal={Phonology},
+  volume={13},
+  number={1},
+  pages={73--117},
+  year={1996},
+  publisher={Cambridge University Press}
+}
+
+@article{avery1989segment,
+  title={Segment structure and coronal underspecification},
+  author={Avery, Peter and Rice, Keren},
+  journal={Phonology},
+  volume={6},
+  number={2},
+  pages={179--200},
+  year={1989},
+  publisher={Cambridge University Press}
+}
+
+@book{adelaar1977tarma,
+  author = {W. F. Adelaar},
+  title = {Tarma Quechua: Grammar, Texts, Dictionary},
+  year = {1977},
+  publisher = {The Peter de Ridder Press}
+}
