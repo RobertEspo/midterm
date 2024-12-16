@@ -75,3 +75,31 @@
   year = {1977},
   publisher = {The Peter de Ridder Press}
 }
+
+@phdthesis{hubbel2016acquiring,
+  title={Acquiring Quechua mid vowels: L1 English-L2 Spanish third language acquisition in a study abroad context},
+  author={Hubbel, Sarah Elizabeth},
+  year={2016},
+  school={University of Georgia}
+}
+
+@article{soto1976diccionario,
+  title={Diccionario quechua, Ayacucho-Chanca},
+  author={Soto Ruiz, Clodoaldo},
+  journal={(No Title)},
+  year={1976}
+}
+
+@article{parker1964english,
+  title={ENGLISH-QUECHUA DICTIONARY--CUZCO, AYACUCHO, COCHABAMBA.},
+  author={Parker, Gary and others},
+  year={1964},
+  publisher={ERIC}
+}
+
+@article{prince2004optimality,
+  title={Optimality Theory: Constraint interaction in generative grammar},
+  author={Prince, Alan},
+  journal={University, New Brunswick, and University of Colorado},
+  year={2004}
+}
